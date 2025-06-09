@@ -98,5 +98,3 @@ This project is open-source and free to use for educational purposes.
 
 ---
 
-✅ You can copy-paste the above directly into your `README.md` file. Let me know if you want to add screenshots, animations, or GitHub badges to make it even better.
-```
