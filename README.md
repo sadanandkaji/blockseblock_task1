@@ -12,8 +12,8 @@ This repository contains 3 educational blockchain simulations written in Node.js
 ## 📥 Clone the Repository
 
 ```bash
-git clone https://github.com/sadanandkaji/blockseblock_task1.git
-cd blockseblock_task1
+git clone https://github.com/sadanandkaji/blockseblock_tasks.git
+cd blockseblock_tasks
 ````
 
 ---
